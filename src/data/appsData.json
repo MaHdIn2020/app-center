@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "title": "WhatsApp Messenger",
+    "companyName": "Meta Platforms, Inc.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+    "description": "Simple. Reliable. Private. WhatsApp from Meta is a FREE messaging and video calling app. It's used by over 2B people in more than 180 countries. It's simple, reliable, and private, so you can easily keep in touch with your friends and family.",
+    "size": 45,
+    "reviews": 1824590,
+    "ratingAvg": 4.6,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 120000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 400000 },
+      { "name": "5 star", "count": 1004590 }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Instagram",
+    "companyName": "Instagram",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg",
+    "description": "Instagram (from Meta) allows you to create and share your photos, stories, reels and videos with the friends and followers you care about. Connect with friends, share what you're up to, or see what's new from others all over the world.",
+    "size": 52,
+    "reviews": 1420500,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 80000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 740500 }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Spotify: Music and Podcasts",
+    "companyName": "Spotify Ltd.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg",
+    "description": "With Spotify, you can listen to music and play millions of songs and podcasts for free. Stream music and podcasts you love and find music - or your next favorite song - from all over the world.",
+    "size": 36,
+    "reviews": 2980400,
+    "ratingAvg": 4.8,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 100000 },
+      { "name": "4 star", "count": 400000 },
+      { "name": "5 star", "count": 2390400 }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Netflix_2015_N_logo.svg",
+    "description": "Looking for the most talked about TV shows and movies from the around the world? They're all on Netflix. We've got award-winning series, movies, documentaries, and stand-up specials.",
+    "size": 41,
+    "reviews": 1102000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 80000 },
+      { "name": "2 star", "count": 120000 },
+      { "name": "3 star", "count": 100000 },
+      { "name": "4 star", "count": 200000 },
+      { "name": "5 star", "count": 602000 }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "TikTok",
+    "companyName": "TikTok Pte. Ltd.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Tiktok_logo_2024.svg",
+    "description": "TikTok is THE destination for mobile videos. On TikTok, short-form videos are exciting, spontaneous, and genuine. Whether you're a sports fanatic, a pet enthusiast, or just looking for a laugh, there's something for everyone on TikTok.",
+    "size": 85,
+    "reviews": 3120000,
+    "ratingAvg": 4.7,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 80000 },
+      { "name": "2 star", "count": 60000 },
+      { "name": "3 star", "count": 180000 },
+      { "name": "4 star", "count": 500000 },
+      { "name": "5 star", "count": 2300000 }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Duolingo: Language Lessons",
+    "companyName": "Duolingo",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Duolingo_logo.svg",
+    "description": "Learn a new language with the world's most-downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.",
+    "size": 60,
+    "reviews": 980000,
+    "ratingAvg": 4.9,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 100000 },
+      { "name": "5 star", "count": 850000 }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Zoom Workplace",
+    "companyName": "zoom.us",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Zoom_Communications_Logo.svg",
+    "description": "Reimagine how you work with Zoom Workplace. You and your team can collaborate effortlessly using Zoom Meetings, Team Chat, Zoom Phone, Whiteboard, and more, all from a single app.",
+    "size": 39,
+    "reviews": 850300,
+    "ratingAvg": 4.3,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 60000 },
+      { "name": "3 star", "count": 140000 },
+      { "name": "4 star", "count": 200000 },
+      { "name": "5 star", "count": 400300 }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Canva: Design, Photo & Video",
+    "companyName": "Canva",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg",
+    "description": "Canva is your free photo editor, logo maker, and video editor in one graphic design app! Design faster with powerful AI tools built in. Turn your creative magic into great designs.",
+    "size": 29,
+    "reviews": 1150000,
+    "ratingAvg": 4.8,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 15000 },
+      { "name": "3 star", "count": 65000 },
+      { "name": "4 star", "count": 200000 },
+      { "name": "5 star", "count": 850000 }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
+    "description": "Navigate your world faster and easier with Google Maps. Over 220 countries and territories mapped and hundreds of millions of businesses and places on the map. Get real-time GPS navigation, traffic, and transit info.",
+    "size": 88,
+    "reviews": 2500400,
+    "ratingAvg": 4.6,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 50000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "4 star", "count": 500000 },
+      { "name": "5 star", "count": 1700400 }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Amazon Shopping",
+    "companyName": "Amazon Mobile LLC",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Amazon_icon.svg",
+    "description": "The Amazon Shopping app lets you shop millions of products and manage your Amazon orders from anywhere. Browse, shop by department, compare prices, read reviews, share products with friends, and check the status of your orders.",
+    "size": 55,
+    "reviews": 1820000,
+    "ratingAvg": 4.5,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 120000 },
+      { "name": "2 star", "count": 80000 },
+      { "name": "3 star", "count": 220000 },
+      { "name": "4 star", "count": 400000 },
+      { "name": "5 star", "count": 1000000 }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "CapCut - Video Editor",
+    "companyName": "Bytedance Pte. Ltd.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/CapCut_logo.svg",
+    "description": "CapCut is an official free Video Maker and Video Editor with Music for TikTok that is versatile and easy-to-use. In addition to its basic features, such as video editing, text, stickers, filters, colors and music, CapCut offers free advanced features.",
+    "size": 95,
+    "reviews": 1280000,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 80000 },
+      { "name": "2 star", "count": 60000 },
+      { "name": "3 star", "count": 140000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 700000 }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Snapchat",
+    "companyName": "Snap Inc",
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c4/Snapchat_logo.svg",
+    "description": "Snapchat is a fast and fun way to share the moment with your friends and family. Snapchat opens right to the camera - just tap to take a photo, or press and hold for video. Express yourself with Lenses, Filters, Bitmoji and more!",
+    "size": 68,
+    "reviews": 2100000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 250000 },
+      { "name": "4 star", "count": 400000 },
+      { "name": "5 star", "count": 1100000 }
+    ]
+  }
+]
